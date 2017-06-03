@@ -1,52 +1,15 @@
-# Prerequisites
-*.d
+# Created by https://www.gitignore.io/api/jmeter
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### JMeter ###
+# JMeter common ignore files
+# http://jmeter.apache.org/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Ignore Summary/Aggregrate reports
+*.jtl
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignore log files
+*.log
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Ignore customized user.properties
+user.properties
+# End of https://www.gitignore.io/api/jmeter
