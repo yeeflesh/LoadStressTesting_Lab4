@@ -35,6 +35,8 @@ Inp
 # 測試環境
 * Docker for windows
 * Apache Jmeter 3.2
+   * Plugins Manager
+   * PerMon (Servers Performance Monitoring)
 * Win10 64-bits (OS)
 
 # Test Report
