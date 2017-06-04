@@ -1,4 +1,6 @@
 # Library System
+# API
+   http://localhost/Lab4/control/
 # 測試範圍
 * **Login (The number of concurrent users for the stress testing : maximum 1024 users , minimum 2 users.) Submit 2 test scripts)**
     * 請將提供的Login腳本，更改成全部人登入完畢再一起登出。 (check with TA for the sample Login JMeter test script)
