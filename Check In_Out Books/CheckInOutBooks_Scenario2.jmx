@@ -135,7 +135,7 @@
           <hashTree/>
         </hashTree>
       </hashTree>
-      <TestFragmentController guiclass="TestFragmentControllerGui" testclass="TestFragmentController" testname="Search" enabled="true"/>
+      <TestFragmentController guiclass="TestFragmentControllerGui" testclass="TestFragmentController" testname="Search &amp; Check In/Out Book" enabled="true"/>
       <hashTree>
         <ConfigTestElement guiclass="HttpDefaultsGui" testclass="ConfigTestElement" testname="Logout Request Defaults" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
@@ -397,23 +397,23 @@
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Login" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
-            <stringProp name="-709000949">CheckInOutBooks_Scenario1</stringProp>
+            <stringProp name="-709000948">CheckInOutBooks_Scenario2</stringProp>
             <stringProp name="73596745">Login</stringProp>
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search" enabled="true">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search &amp; Check In/Out Book" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
-            <stringProp name="-709000949">CheckInOutBooks_Scenario1</stringProp>
-            <stringProp name="-1822469688">Search</stringProp>
+            <stringProp name="-709000948">CheckInOutBooks_Scenario2</stringProp>
+            <stringProp name="1421107003">Search &amp; Check In/Out Book</stringProp>
           </collectionProp>
         </ModuleController>
         <hashTree/>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Logout" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
-            <stringProp name="-709000949">CheckInOutBooks_Scenario1</stringProp>
+            <stringProp name="-709000948">CheckInOutBooks_Scenario2</stringProp>
             <stringProp name="-2013462102">Logout</stringProp>
           </collectionProp>
         </ModuleController>
@@ -442,11 +442,11 @@
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search" enabled="true">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search &amp; Check In/Out Book" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
             <stringProp name="-709000948">CheckInOutBooks_Scenario2</stringProp>
-            <stringProp name="-1822469688">Search</stringProp>
+            <stringProp name="1421107003">Search &amp; Check In/Out Book</stringProp>
           </collectionProp>
         </ModuleController>
         <hashTree/>
@@ -482,11 +482,11 @@
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search" enabled="true">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search &amp; Check In/Out Book" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
             <stringProp name="-709000948">CheckInOutBooks_Scenario2</stringProp>
-            <stringProp name="-1822469688">Search</stringProp>
+            <stringProp name="1421107003">Search &amp; Check In/Out Book</stringProp>
           </collectionProp>
         </ModuleController>
         <hashTree/>
@@ -522,11 +522,11 @@
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search" enabled="true">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search &amp; Check In/Out Book" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
             <stringProp name="-709000948">CheckInOutBooks_Scenario2</stringProp>
-            <stringProp name="-1822469688">Search</stringProp>
+            <stringProp name="1421107003">Search &amp; Check In/Out Book</stringProp>
           </collectionProp>
         </ModuleController>
         <hashTree/>
