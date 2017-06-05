@@ -35,7 +35,7 @@ An online library service provided by CSIE@NTUT for allowing users to borrow boo
 * 第一種
    * thread = 256 -> Ramp-up = 10
    * thread = 512 -> Ramp-up = 20
-   * thread = 1024 -> Ramp-up = 20
+   * thread = 1024 -> Ramp-up = 20
 * 第二種
    * thread = 64 -> Ramp-up = 10
    * thread = 128 -> Ramp-up = 20
