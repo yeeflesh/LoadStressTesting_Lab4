@@ -31,7 +31,7 @@ An online library service provided by CSIE@NTUT for allowing users to borrow boo
     * 兩個腳本皆會設定Ramp-up，請在256使用者設為40秒內讓所有使用者皆登入完成。
 
 # 測試方法
-每一個Scenario分成兩個Script，其中一個腳本設Ramp-up，另外一個腳本不設，其中有設Ramp-up的腳本又再分成兩種：
+每一個Scenario分成兩個Script，其中一個腳本設Ramp-up，另外一個腳本不設，其中有設Ramp-up的腳本又再分成兩種： 
    * 第一種
       * thread = 256 -> Ramp-up = 10
       * thread = 512 -> Ramp-up = 20
