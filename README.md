@@ -32,11 +32,11 @@ An online library service provided by CSIE@NTUT for allowing users to borrow boo
 
 # 測試方法
 每一個Scenario分成兩個Script，其中一個腳本設Ramp-up，另外一個腳本不設，其中有設Ramp-up的腳本又再分成兩種：
-   * 第一種：
-      * thread = 256 -> Ramp-up = 10
+   * 第一種
+      * thread = 256 -> Ramp-up = 10
       * thread = 512 -> Ramp-up = 20
       * thread = 1024 -> Ramp-up = 20
-   * 第二種：
+   * 第二種
       * thread = 64 -> Ramp-up = 10
       * thread = 128 -> Ramp-up = 20
       * thread = 256 -> Ramp-up = 20
