@@ -1,4 +1,6 @@
 # Library System
+An online library service provided by CSIE@NTUT for allowing users to borrow books, search book, and return books
+
 # API
    http://localhost/Lab4/control/
 # 測試範圍
